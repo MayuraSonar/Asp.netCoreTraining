@@ -1,0 +1,24 @@
+﻿@model Candy
+<div class="col-sm-4 col-lg-4 col-md-4">
+    <div class="thumbnail">
+        <img src="@Model.ImageThumbnailUrl" alt="Image not displayed" />
+        <div class="caption">
+            <h3> @Model.Price.ToString("c")</h3>
+            <h3>
+                <a asp-controller="Candy" asp-action="Details"
+                   asp-route-id="@Model.Id">@Model.Name</a>
+            </h3>
+            <h3>@Model.Name</h3>
+            <p>@Model.Description</p>
+        </div>
+
+        <div class="addToCart">
+            <p class="button">
+                <a class="btn btn-primary"
+                    asp-controller="Shopping" asp-action="AddToShoppingCart" 
+                   asp-route-candyId="@Model.Id">Add to Cart
+                </a>
+            </p>
+        </div>
+    </div>
+</div>

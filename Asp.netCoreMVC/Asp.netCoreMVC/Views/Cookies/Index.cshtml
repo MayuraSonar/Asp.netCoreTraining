@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@if (!string.IsNullOrWhiteSpace(Model))
+{
+    @:<div>Welcome Back : @Model</div>
+@Html.ActionLink("Delete Me", "DeleteCookie")
+}
+
+else
+{
+    
+<form asp-action="Index">
+    <span>
+        Visited First Time
+    </span><br/>
+    @Html.TextBox("myName")
+    <div class="form-group">
+        <input type="submit" value="update" />
+    </div>
+</form>
+}
+

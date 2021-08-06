@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<table border="1" cellpadding="3">
+    <tr>
+        <th>EmployeeId</th>
+        <th>Name</th>
+        <th>Location</th>
+        <th>Department</th>
+    </tr>
+    @foreach(var i in (List<Employee>) ViewBag.employeeDetails)
+    {
+        <tr>
+            <td>@i.id</td>
+            <td>@i.name</td>
+            <td>@i.location</td>
+            <td>@i.department</td>
+        </tr>
+    }
+</table>

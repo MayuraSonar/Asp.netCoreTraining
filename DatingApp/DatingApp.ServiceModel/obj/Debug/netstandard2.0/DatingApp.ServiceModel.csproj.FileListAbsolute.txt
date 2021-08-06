@@ -1,0 +1,9 @@
+C:\EMIAspNetCoreTraining\EMIAspNetCore\DatingApp\DatingApp.ServiceModel\bin\Debug\netstandard2.0\DatingApp.ServiceModel.deps.json
+C:\EMIAspNetCoreTraining\EMIAspNetCore\DatingApp\DatingApp.ServiceModel\bin\Debug\netstandard2.0\DatingApp.ServiceModel.dll
+C:\EMIAspNetCoreTraining\EMIAspNetCore\DatingApp\DatingApp.ServiceModel\bin\Debug\netstandard2.0\DatingApp.ServiceModel.pdb
+C:\EMIAspNetCoreTraining\EMIAspNetCore\DatingApp\DatingApp.ServiceModel\obj\Debug\netstandard2.0\DatingApp.ServiceModel.AssemblyInfoInputs.cache
+C:\EMIAspNetCoreTraining\EMIAspNetCore\DatingApp\DatingApp.ServiceModel\obj\Debug\netstandard2.0\DatingApp.ServiceModel.AssemblyInfo.cs
+C:\EMIAspNetCoreTraining\EMIAspNetCore\DatingApp\DatingApp.ServiceModel\obj\Debug\netstandard2.0\DatingApp.ServiceModel.dll
+C:\EMIAspNetCoreTraining\EMIAspNetCore\DatingApp\DatingApp.ServiceModel\obj\Debug\netstandard2.0\DatingApp.ServiceModel.pdb
+C:\EMIAspNetCoreTraining\EMIAspNetCore\DatingApp\DatingApp.ServiceModel\obj\Debug\netstandard2.0\DatingApp.ServiceModel.csprojAssemblyReference.cache
+C:\EMIAspNetCoreTraining\EMIAspNetCore\DatingApp\DatingApp.ServiceModel\obj\Debug\netstandard2.0\DatingApp.ServiceModel.csproj.CoreCompileInputs.cache
