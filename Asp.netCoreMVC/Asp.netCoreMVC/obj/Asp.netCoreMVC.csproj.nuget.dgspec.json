@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EMIAspNetCoreTraining\\EMIAspNetCore\\Asp.netCoreMVC\\Asp.netCoreMVC\\Asp.netCoreMVC.csproj": {}
+    "d:\\TrainingDemos\\Asp.netCoreTraining\\Asp.netCoreMVC\\Asp.netCoreMVC\\Asp.netCoreMVC.csproj": {}
   },
   "projects": {
-    "C:\\EMIAspNetCoreTraining\\EMIAspNetCore\\Asp.netCoreMVC\\Asp.netCoreMVC\\Asp.netCoreMVC.csproj": {
+    "d:\\TrainingDemos\\Asp.netCoreTraining\\Asp.netCoreMVC\\Asp.netCoreMVC\\Asp.netCoreMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EMIAspNetCoreTraining\\EMIAspNetCore\\Asp.netCoreMVC\\Asp.netCoreMVC\\Asp.netCoreMVC.csproj",
+        "projectUniqueName": "d:\\TrainingDemos\\Asp.netCoreTraining\\Asp.netCoreMVC\\Asp.netCoreMVC\\Asp.netCoreMVC.csproj",
         "projectName": "Asp.netCoreMVC",
-        "projectPath": "C:\\EMIAspNetCoreTraining\\EMIAspNetCore\\Asp.netCoreMVC\\Asp.netCoreMVC\\Asp.netCoreMVC.csproj",
+        "projectPath": "d:\\TrainingDemos\\Asp.netCoreTraining\\Asp.netCoreMVC\\Asp.netCoreMVC\\Asp.netCoreMVC.csproj",
         "packagesPath": "C:\\Users\\mayura.sonar\\.nuget\\packages\\",
-        "outputPath": "C:\\EMIAspNetCoreTraining\\EMIAspNetCore\\Asp.netCoreMVC\\Asp.netCoreMVC\\obj\\",
+        "outputPath": "d:\\TrainingDemos\\Asp.netCoreTraining\\Asp.netCoreMVC\\Asp.netCoreMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -25,11 +25,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/euromonitor/_packaging/EMI-Shared@Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
